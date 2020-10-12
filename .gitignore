@@ -11,6 +11,9 @@
 # production
 /build
 
+#pcap
+*.pcap
+
 # misc
 .DS_Store
 .env.local
