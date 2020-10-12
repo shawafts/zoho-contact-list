@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/zoho-contact-list/static/js/main.3c102ff8.chunk.js",
+    "main.js.map": "/zoho-contact-list/static/js/main.3c102ff8.chunk.js.map",
+    "runtime-main.js": "/zoho-contact-list/static/js/runtime-main.b835933f.js",
+    "runtime-main.js.map": "/zoho-contact-list/static/js/runtime-main.b835933f.js.map",
+    "static/css/2.590bbf73.chunk.css": "/zoho-contact-list/static/css/2.590bbf73.chunk.css",
+    "static/js/2.0dddc21f.chunk.js": "/zoho-contact-list/static/js/2.0dddc21f.chunk.js",
+    "static/js/2.0dddc21f.chunk.js.map": "/zoho-contact-list/static/js/2.0dddc21f.chunk.js.map",
+    "index.html": "/zoho-contact-list/index.html",
+    "precache-manifest.06e8feeccb84bb61131505ed812b906c.js": "/zoho-contact-list/precache-manifest.06e8feeccb84bb61131505ed812b906c.js",
+    "service-worker.js": "/zoho-contact-list/service-worker.js",
+    "static/css/2.590bbf73.chunk.css.map": "/zoho-contact-list/static/css/2.590bbf73.chunk.css.map",
+    "static/js/2.0dddc21f.chunk.js.LICENSE.txt": "/zoho-contact-list/static/js/2.0dddc21f.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/zoho-contact-list/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b835933f.js",
+    "static/css/2.590bbf73.chunk.css",
+    "static/js/2.0dddc21f.chunk.js",
+    "static/js/main.3c102ff8.chunk.js"
+  ]
+}
