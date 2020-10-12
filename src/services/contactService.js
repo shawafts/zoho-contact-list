@@ -1,7 +1,5 @@
 import http from "./http";
 import { apiUrl, organizationId } from "../config.json";
-// const organizationId = "649249007";
-// const apiUrl = "https://finkraft-zoho-proxy.herokuapp.com/proxy";
 
 export async function getContacts(page, perPage, filter, sortColumn) {
   let response;
